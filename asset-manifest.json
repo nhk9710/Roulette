@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Roulette/static/css/main.58862ca5.css",
-    "main.js": "/Roulette/static/js/main.bbcada24.js",
+    "main.js": "/Roulette/static/js/main.e7dab7bb.js",
     "static/js/787.23c2290d.chunk.js": "/Roulette/static/js/787.23c2290d.chunk.js",
     "index.html": "/Roulette/index.html",
     "main.58862ca5.css.map": "/Roulette/static/css/main.58862ca5.css.map",
-    "main.bbcada24.js.map": "/Roulette/static/js/main.bbcada24.js.map",
+    "main.e7dab7bb.js.map": "/Roulette/static/js/main.e7dab7bb.js.map",
     "787.23c2290d.chunk.js.map": "/Roulette/static/js/787.23c2290d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.58862ca5.css",
-    "static/js/main.bbcada24.js"
+    "static/js/main.e7dab7bb.js"
   ]
 }
